@@ -4,6 +4,7 @@
 - learning to code
 - i like video games too
 - im good at minecraft
+- subscribe to 3dcheesecake
 
 
 
