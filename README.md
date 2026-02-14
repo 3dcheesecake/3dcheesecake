@@ -1,8 +1,8 @@
 ## heyyy
-thanks for stopping by
-i like cheese, cake, and cheesecake \n
-learning to code \n
-i like video games
+#thanks for stopping by
+#i like cheese, cake, and cheesecake
+#learning to code
+#i like video games
 
 
 
