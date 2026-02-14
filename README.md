@@ -1,7 +1,9 @@
 ## heyyy
-## this is my page, thanks for stopping by
-## im trying to get a "proper" website if you can call it that lmao
-## i like mangos btw
+thanks for stopping by
+i like cheese, cake, and cheesecake
+learning to code
+i like video games
+
 
 
 <!--
