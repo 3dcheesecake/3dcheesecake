@@ -1,4 +1,8 @@
-## Hi there 👋
+## heyyy
+## this is my page, thanks for stopping by
+## im trying to get a "proper" website if you can call it that lmao
+## i like mangos btw
+
 
 <!--
 **3dcheesecake/3dcheesecake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
