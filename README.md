@@ -1,4 +1,9 @@
-print("hey thanks for stopping by i like cheese, cake, and cheesecakelearning to code i like video games")
+- hey
+- thanks for stopping by
+- i like cheese, cake, and cheesecake
+- learning to code
+- i like video games too
+- im good at minecraft
 
 
 
