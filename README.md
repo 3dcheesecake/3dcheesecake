@@ -1,8 +1,5 @@
-hey
-thanks for stopping by
-i like cheese, cake, and cheesecake
-\nlearning to code
-i like video games
+print("hey thanks for stopping by i like cheese, cake, and cheesecakelearning to code i like video games")
+
 
 
 
